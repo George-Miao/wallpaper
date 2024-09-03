@@ -1,0 +1,32 @@
+name: gen_preview
+on:
+  push:
+  pull_request:
+jobs:
+  gen_preview:
+    runs-on: ubuntu-latest
+    env:
+      preview: PREVIEW.md
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run
+        run: bin/gen_preview.sh
+      - name: Commit files
+        id: commit-files
+        run: |
+          set +e
+          git diff --quiet --exit-code $preview
+          changed=$?
+          echo "changed=$changed" >> $GITHUB_OUTPUT
+          [ $changed = 0 ] && echo "Nothing changed, early exiting" && exit
+          echo "Changed, commit & push"
+          git config --local user.email "action@miao.dev"
+          git config --local user.name "gen_preview action"
+          git commit $preview -m "Update $preview"
+      - name: Push changes
+        if: '${{ steps.commit-files.outputs.changed == 1 }}'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
