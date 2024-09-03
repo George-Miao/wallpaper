@@ -1,3 +1,4 @@
+name: release
 on:
   workflow_dispatch:
   push:
@@ -23,6 +24,6 @@ jobs:
           token: ${{ github.token }}
           files: wallpaper.tar.gz
           tag_name: ${{ steps.slug.outputs.sha }}
-          name: Release \#${{ steps.slug.outputs.sha }}
+          name: 'Release #${{ steps.slug.outputs.sha }}'
           draft: false
           prerelease: false
