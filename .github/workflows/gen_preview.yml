@@ -2,6 +2,7 @@ name: gen_preview
 on:
   push:
   pull_request:
+  workflow_dispatch:
 jobs:
   gen_preview:
     runs-on: ubuntu-latest

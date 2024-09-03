@@ -1,0 +1,28 @@
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - wallpaper/**
+    branches:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build tarball
+        run: tar -czvf wallpaper.tar.gz wallpaper/*
+      - name: Get short SHA
+        id: slug
+        run: echo "sha=$(echo ${GITHUB_SHA} | cut -c1-6)" >> $GITHUB_OUTPUT
+      - name: Release
+        id: release
+        uses: softprops/action-gh-release@v1
+        with:
+          token: ${{ github.token }}
+          files: wallpaper.tar.gz
+          tag_name: ${{ steps.slug.outputs.sha }}
+          name: Release \#${{ steps.slug.outputs.sha }}
+          draft: false
+          prerelease: false
