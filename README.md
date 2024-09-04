@@ -1,4 +1,4 @@
-# Wallpaper
+# George-Miao/wallpaper
 
 Curated collection of wallpapers by George Miao.
 
