@@ -12,8 +12,8 @@
 ![caleb-steele-5t1lUr0NmHI.jpg](wallpaper/caleb-steele-5t1lUr0NmHI.jpg)
 *[caleb-steele-5t1lUr0NmHI.jpg](wallpaper/caleb-steele-5t1lUr0NmHI.jpg)*
 
-![carl-nenzen loven-busqfOj6i80.jpg](wallpaper/carl-nenzen loven-busqfOj6i80.jpg)
-*[carl-nenzen loven-busqfOj6i80.jpg](wallpaper/carl-nenzen loven-busqfOj6i80.jpg)*
+![carl-nenzen-busqfOj6i80.jpg](wallpaper/carl-nenzen-busqfOj6i80.jpg)
+*[carl-nenzen-busqfOj6i80.jpg](wallpaper/carl-nenzen-busqfOj6i80.jpg)*
 
 ![carl-solder-Lau_i-esJYg.jpg](wallpaper/carl-solder-Lau_i-esJYg.jpg)
 *[carl-solder-Lau_i-esJYg.jpg](wallpaper/carl-solder-Lau_i-esJYg.jpg)*
@@ -77,7 +77,4 @@
 
 ![weroad-90mPwgjGgf8.jpg](wallpaper/weroad-90mPwgjGgf8.jpg)
 *[weroad-90mPwgjGgf8.jpg](wallpaper/weroad-90mPwgjGgf8.jpg)*
-
-![zetong-li-TbHYpbi_Gbc.jpg](wallpaper/zetong-li-TbHYpbi_Gbc.jpg)
-*[zetong-li-TbHYpbi_Gbc.jpg](wallpaper/zetong-li-TbHYpbi_Gbc.jpg)*
 
