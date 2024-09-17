@@ -60,6 +60,9 @@
 ![nathan-anderson-daYZ8ixAn8g.jpg](wallpaper/nathan-anderson-daYZ8ixAn8g.jpg)
 *[nathan-anderson-daYZ8ixAn8g.jpg](wallpaper/nathan-anderson-daYZ8ixAn8g.jpg)*
 
+![pierre-châtel-innocenti-bSUAjkiL7dQ.jpg](wallpaper/pierre-châtel-innocenti-bSUAjkiL7dQ.jpg)
+*[pierre-châtel-innocenti-bSUAjkiL7dQ.jpg](wallpaper/pierre-châtel-innocenti-bSUAjkiL7dQ.jpg)*
+
 ![pierre-leverrier-sWtV6U0ZYF0.jpg](wallpaper/pierre-leverrier-sWtV6U0ZYF0.jpg)
 *[pierre-leverrier-sWtV6U0ZYF0.jpg](wallpaper/pierre-leverrier-sWtV6U0ZYF0.jpg)*
 
