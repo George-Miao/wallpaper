@@ -69,6 +69,9 @@
 ![reinis-birznieks-c_Qz9dRSxjk.jpg](wallpaper/reinis-birznieks-c_Qz9dRSxjk.jpg)
 *[reinis-birznieks-c_Qz9dRSxjk.jpg](wallpaper/reinis-birznieks-c_Qz9dRSxjk.jpg)*
 
+![robert-shunev-mS1nlYbq1kA.jpg](wallpaper/robert-shunev-mS1nlYbq1kA.jpg)
+*[robert-shunev-mS1nlYbq1kA.jpg](wallpaper/robert-shunev-mS1nlYbq1kA.jpg)*
+
 ![rémi-jacquaint-vSWc5Hs7_Ag.jpg](wallpaper/rémi-jacquaint-vSWc5Hs7_Ag.jpg)
 *[rémi-jacquaint-vSWc5Hs7_Ag.jpg](wallpaper/rémi-jacquaint-vSWc5Hs7_Ag.jpg)*
 
