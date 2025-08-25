@@ -33,6 +33,9 @@
 ![jake-blucker-YHNYQCxZ40s.jpg](wallpaper/jake-blucker-YHNYQCxZ40s.jpg)
 *[jake-blucker-YHNYQCxZ40s.jpg](wallpaper/jake-blucker-YHNYQCxZ40s.jpg)*
 
+![jan-szwagrzyk-j3LOP2unmX0.jpg](wallpaper/jan-szwagrzyk-j3LOP2unmX0.jpg)
+*[jan-szwagrzyk-j3LOP2unmX0.jpg](wallpaper/jan-szwagrzyk-j3LOP2unmX0.jpg)*
+
 ![johannes-plenio-T4Qy1U7utQA.jpg](wallpaper/johannes-plenio-T4Qy1U7utQA.jpg)
 *[johannes-plenio-T4Qy1U7utQA.jpg](wallpaper/johannes-plenio-T4Qy1U7utQA.jpg)*
 
